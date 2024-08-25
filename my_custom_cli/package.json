@@ -1,0 +1,22 @@
+{
+  "name": "p_g-pokidex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo something"
+  },
+  "bin": {
+    "Pgpokemon": "index.js"
+  },
+  "keywords": [
+    "pokidex",
+    "pokemon",
+    "custom_cli"
+  ],
+  "author": "Pritam Gayen",
+  "license": "ISC",
+  "description": "Custom pokemon command line tool for",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
